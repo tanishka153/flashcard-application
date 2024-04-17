@@ -6,7 +6,7 @@
 }
 body {
   min-height: 110vh;
-  background: url(./images/abg.jpg) no-repeat;
+  background: url(./abg.jpg) no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
